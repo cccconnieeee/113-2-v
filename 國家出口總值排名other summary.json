@@ -1,0 +1,48 @@
+{
+  "multiple_variable_summary": {
+    "categorical_summary": {
+      "期間": {
+        "type": "string",
+        "unique_values": "多（依不同年度月份）",
+        "example_values": ["113年1-8月", "112年全年", "111年1-6月"]
+      },
+      "國家": {
+        "type": "string",
+        "unique_values": 30,
+        "top_values": ["中國大陸", "美國", "香港", "日本", "新加坡"]
+      }
+    },
+    "numeric_summary": {
+      "排名": {
+        "type": "integer",
+        "min": 1,
+        "max": 30,
+        "mean": "~15.5 (估算自等比分布)",
+        "missing_values": 0
+      },
+      "出口總值(新臺幣千元)": {
+        "type": "integer",
+        "min": "未知（待資料檔）",
+        "max": "未知（待資料檔）",
+        "mean": "未知（待資料檔）",
+        "missing_values": 0
+      },
+      "百分比": {
+        "type": "float",
+        "min": "未知（待資料檔）",
+        "max": "未知（應近10~50%）",
+        "mean": "未知（預期低於10%）",
+        "missing_values": 0
+      },
+      "備註": {
+        "type": "float (nullable)",
+        "note": "全欄皆為缺值",
+        "missing_values": 3390
+      }
+    },
+    "structure": {
+      "rows": 3390,
+      "columns": 6
+    }
+  }
+}

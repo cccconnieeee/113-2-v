@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "期間": {
+      "type": "string",
+      "description": "資料所屬期間（例如「113年1-8月」）",
+      "missing_values": 0
+    },
+    "排名": {
+      "type": "integer",
+      "description": "該期間中該國家出口總值的排名（1~30）",
+      "missing_values": 0
+    },
+    "國家": {
+      "type": "string",
+      "description": "國家或地區名稱（例如「美國」、「中國大陸」）",
+      "missing_values": 0
+    },
+    "出口總值(新臺幣千元)": {
+      "type": "integer",
+      "description": "該期間內該國家或地區的出口總值，單位為新臺幣千元",
+      "missing_values": 0
+    },
+    "百分比": {
+      "type": "float",
+      "description": "出口總值佔總體出口比重的百分比",
+      "missing_values": 0
+    },
+    "備註": {
+      "type": "float (nullable)",
+      "description": "備註欄位，目前無資料（全部為空）",
+      "missing_values": 3390
+    }
+  },
+  "total_observations": 3390,
+  "total_variables": 6
+}
