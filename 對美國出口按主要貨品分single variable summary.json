@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "title": "對美國出口按主要貨品分數據摘要",
+    "created": "2025-04-28 15:48:57 UTC",
+    "data_source": "對美國出口按主要貨品分.csv",
+    "dimensions": {
+      "rows": 23,
+      "cols": 21
+    },
+    "value_units": {
+      "currency": "美元",
+      "measure": "未指定"
+    }
+  },
+  "variables": {
+    "年份": {
+      "variable": "年份",
+      "class": "character",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "n_unique": 23,
+      "top_3_values": ["100年", "101年", "102年"],
+      "top_3_counts": [1, 1, 1]
+    },
+    "總計(千美元)": {
+      "variable": "總計(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 38514387.52,
+      "median": 33119861,
+      "sd": 14754629.62,
+      "range": {
+        "min": 23619884,
+        "max": 76234038
+      },
+      "q25": 30023225.5,
+      "q75": 38131486.5
+    },
+    "1.活動物；動物產品(千美元)": {
+      "variable": "1.活動物；動物產品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 156026.04,
+      "median": 155397,
+      "sd": 17803.38,
+      "range": {
+        "min": 127655,
+        "max": 199717
+      },
+      "q25": 144417.5,
+      "q75": 165965
+    },
+    "2.植物產品(千美元)": {
+      "variable": "2.植物產品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 75149.26,
+      "median": 75486,
+      "sd": 34879.27,
+      "range": {
+        "min": 29192,
+        "max": 138849
+      },
+      "q25": 44022,
+      "q75": 99084.5
+    },
+    "3.動植物油脂(千美元)": {
+      "variable": "3.動植物油脂(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 13312.52,
+      "median": 15383,
+      "sd": 5968.96,
+      "range": {
+        "min": 4482,
+        "max": 25174
+      },
+      "q25": 7326.5,
+      "q75": 17908.5
+    },
+    "4.調製食品；飲料及菸酒(千美元)": {
+      "variable": "4.調製食品；飲料及菸酒(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 248204.48,
+      "median": 205733,
+      "sd": 161184.12,
+      "range": {
+        "min": 105090,
+        "max": 604147
+      },
+      "q25": 126293.5,
+      "q75": 285670
+    },
+    "5.礦產品(千美元)": {
+      "variable": "5.礦產品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 280830.09,
+      "median": 262481,
+      "sd": 192484.68,
+      "range": {
+        "min": 31818,
+        "max": 707645
+      },
+      "q25": 118657,
+      "q75": 406247.5
+    },
+    "6.化學品(千美元)": {
+      "variable": "6.化學品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 928838.74,
+      "median": 929606,
+      "sd": 511223.41,
+      "range": {
+        "min": 255166,
+        "max": 2082080
+      },
+      "q25": 535050.5,
+      "q75": 1198432
+    },
+    "7.塑膠、橡膠及其製品(千美元)": {
+      "variable": "7.塑膠、橡膠及其製品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 2252370.74,
+      "median": 2223233,
+      "sd": 791346.77,
+      "range": {
+        "min": 1222438,
+        "max": 3981532
+      },
+      "q25": 1653302,
+      "q75": 2744260
+    },
+    "8.毛皮及其製品(千美元)": {
+      "variable": "8.毛皮及其製品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 68072,
+      "median": 55029,
+      "sd": 34101.63,
+      "range": {
+        "min": 38764,
+        "max": 156891
+      },
+      "q25": 44382,
+      "q75": 74119
+    },
+    "9.木及木製品(千美元)": {
+      "variable": "9.木及木製品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 54538.48,
+      "median": 42571,
+      "sd": 20890.56,
+      "range": {
+        "min": 30889,
+        "max": 96120
+      },
+      "q25": 40180,
+      "q75": 73690.5
+    },
+    "10.紙漿；紙及其製品；印刷品(千美元)": {
+      "variable": "10.紙漿；紙及其製品；印刷品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 158410.96,
+      "median": 160116,
+      "sd": 68765.3,
+      "range": {
+        "min": 64555,
+        "max": 299336
+      },
+      "q25": 98988,
+      "q75": 208838.5
+    },
+    "11.紡織品(千美元)": {
+      "variable": "11.紡織品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 1113483.22,
+      "median": 925965,
+      "sd": 474290.92,
+      "range": {
+        "min": 594744,
+        "max": 2182416
+      },
+      "q25": 778766.5,
+      "q75": 1357752.5
+    },
+    "12.鞋、帽及其他飾品(千美元)": {
+      "variable": "12.鞋、帽及其他飾品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 104248.17,
+      "median": 98824,
+      "sd": 27129.07,
+      "range": {
+        "min": 74446,
+        "max": 176137
+      },
+      "q25": 85813.5,
+      "q75": 111024
+    },
+    "13.非金屬礦物製品(千美元)": {
+      "variable": "13.非金屬礦物製品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 257524.78,
+      "median": 250737,
+      "sd": 90498.97,
+      "range": {
+        "min": 131504,
+        "max": 446308
+      },
+      "q25": 182585.5,
+      "q75": 304112.5
+    },
+    "14.珠寶及貴金屬製品(千美元)": {
+      "variable": "14.珠寶及貴金屬製品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 120460.17,
+      "median": 118039,
+      "sd": 73032.55,
+      "range": {
+        "min": 14581,
+        "max": 292184
+      },
+      "q25": 83266.5,
+      "q75": 149976
+    },
+    "15.基本金屬及其製品(千美元)": {
+      "variable": "15.基本金屬及其製品(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 5119950.48,
+      "median": 5005651,
+      "sd": 1667309.16,
+      "range": {
+        "min": 2734126,
+        "max": 9482499
+      },
+      "q25": 4080809.5,
+      "q75": 5783974
+    },
+    "16.機械及電機設備(千美元)": {
+      "variable": "16.機械及電機設備(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 21301230,
+      "median": 16860449,
+      "sd": 10139375.08,
+      "range": {
+        "min": 12739472,
+        "max": 52418686
+      },
+      "q25": 16212447,
+      "q75": 20218673.5
+    },
+    "17.運輸工具(千美元)": {
+      "variable": "17.運輸工具(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 2834267.39,
+      "median": 2808336,
+      "sd": 1081290.81,
+      "range": {
+        "min": 1347010,
+        "max": 5987831
+      },
+      "q25": 2142675.5,
+      "q75": 3291655.5
+    },
+    "18.光學及精密儀器；鐘錶；樂器(千美元)": {
+      "variable": "18.光學及精密儀器；鐘錶；樂器(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 1348407.91,
+      "median": 1260480,
+      "sd": 479108.39,
+      "range": {
+        "min": 788662,
+        "max": 2539462
+      },
+      "q25": 996366.5,
+      "q75": 1478937.5
+    },
+    "19.其他(千美元)": {
+      "variable": "19.其他(千美元)",
+      "class": "numeric",
+      "na_count": 0,
+      "na_pct": 0,
+      "complete_rate": 1,
+      "mean": 2079061.48,
+      "median": 1826654,
+      "sd": 802224.75,
+      "range": {
+        "min": 1259477,
+        "max": 4747525
+      },
+      "q25": 1541810,
+      "q75": 2273275
+    }
+  }
+}

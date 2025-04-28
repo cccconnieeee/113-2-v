@@ -1,0 +1,82 @@
+{
+  "description": "Products ranked by variability (standard deviation) of export value",
+  "operations": "select, summarise, across, pivot_longer, arrange",
+  "summary": [
+    {
+      "product": "16.機械及電機設備(千美元)",
+      "standard_deviation": 10139375.0813
+    },
+    {
+      "product": "15.基本金屬及其製品(千美元)",
+      "standard_deviation": 1667309.1585
+    },
+    {
+      "product": "17.運輸工具(千美元)",
+      "standard_deviation": 1081290.8082
+    },
+    {
+      "product": "19.其他(千美元)",
+      "standard_deviation": 802224.7519
+    },
+    {
+      "product": "7.塑膠、橡膠及其製品(千美元)",
+      "standard_deviation": 791346.7722
+    },
+    {
+      "product": "6.化學品(千美元)",
+      "standard_deviation": 511223.4083
+    },
+    {
+      "product": "18.光學及精密儀器；鐘錶；樂器(千美元)",
+      "standard_deviation": 479108.3916
+    },
+    {
+      "product": "11.紡織品(千美元)",
+      "standard_deviation": 474290.9151
+    },
+    {
+      "product": "5.礦產品(千美元)",
+      "standard_deviation": 192484.6771
+    },
+    {
+      "product": "4.調製食品；飲料及菸酒(千美元)",
+      "standard_deviation": 161184.1174
+    },
+    {
+      "product": "13.非金屬礦物製品(千美元)",
+      "standard_deviation": 90498.9674
+    },
+    {
+      "product": "14.珠寶及貴金屬製品(千美元)",
+      "standard_deviation": 73032.5542
+    },
+    {
+      "product": "10.紙漿；紙及其製品；印刷品(千美元)",
+      "standard_deviation": 68765.3028
+    },
+    {
+      "product": "2.植物產品(千美元)",
+      "standard_deviation": 34879.267
+    },
+    {
+      "product": "8.毛皮及其製品(千美元)",
+      "standard_deviation": 34101.6279
+    },
+    {
+      "product": "12.鞋、帽及其他飾品(千美元)",
+      "standard_deviation": 27129.0679
+    },
+    {
+      "product": "9.木及木製品(千美元)",
+      "standard_deviation": 20890.5576
+    },
+    {
+      "product": "1.活動物；動物產品(千美元)",
+      "standard_deviation": 17803.379
+    },
+    {
+      "product": "3.動植物油脂(千美元)",
+      "standard_deviation": 5968.9641
+    }
+  ]
+}

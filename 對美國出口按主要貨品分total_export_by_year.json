@@ -1,0 +1,98 @@
+{
+  "description": "Total export value to the U.S. by year",
+  "operations": "group_by, summarise",
+  "summary": [
+    {
+      "年份": "100年",
+      "total_export": 36450635
+    },
+    {
+      "年份": "101年",
+      "total_export": 33119861
+    },
+    {
+      "年份": "102年",
+      "total_export": 32630181
+    },
+    {
+      "年份": "103年",
+      "total_export": 35033279
+    },
+    {
+      "年份": "104年",
+      "total_export": 34448479
+    },
+    {
+      "年份": "105年",
+      "total_export": 33396311
+    },
+    {
+      "年份": "106年",
+      "total_export": 36772593
+    },
+    {
+      "年份": "107年",
+      "total_export": 39490380
+    },
+    {
+      "年份": "108年",
+      "total_export": 46247108
+    },
+    {
+      "年份": "109年",
+      "total_export": 50549921
+    },
+    {
+      "年份": "110年",
+      "total_export": 65685966
+    },
+    {
+      "年份": "111年",
+      "total_export": 75052059
+    },
+    {
+      "年份": "112年",
+      "total_export": 76234038
+    },
+    {
+      "年份": "90年",
+      "total_export": 28128251
+    },
+    {
+      "年份": "91年",
+      "total_export": 27373955
+    },
+    {
+      "年份": "92年",
+      "total_export": 26571270
+    },
+    {
+      "年份": "93年",
+      "total_export": 28809375
+    },
+    {
+      "年份": "94年",
+      "total_export": 29162882
+    },
+    {
+      "年份": "95年",
+      "total_export": 32474639
+    },
+    {
+      "年份": "96年",
+      "total_export": 32130276
+    },
+    {
+      "年份": "97年",
+      "total_export": 30883569
+    },
+    {
+      "年份": "98年",
+      "total_export": 23619884
+    },
+    {
+      "年份": "99年",
+      "total_export": 31566001
+    }
+  ]
+}

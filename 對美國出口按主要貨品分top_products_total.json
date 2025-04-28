@@ -1,0 +1,82 @@
+{
+  "description": "Products ranked by total export value",
+  "operations": "select, summarise, across, pivot_longer, arrange",
+  "summary": [
+    {
+      "product": "16.機械及電機設備(千美元)",
+      "total_export": 489928290
+    },
+    {
+      "product": "15.基本金屬及其製品(千美元)",
+      "total_export": 117758861
+    },
+    {
+      "product": "17.運輸工具(千美元)",
+      "total_export": 65188150
+    },
+    {
+      "product": "7.塑膠、橡膠及其製品(千美元)",
+      "total_export": 51804527
+    },
+    {
+      "product": "19.其他(千美元)",
+      "total_export": 47818414
+    },
+    {
+      "product": "18.光學及精密儀器；鐘錶；樂器(千美元)",
+      "total_export": 31013382
+    },
+    {
+      "product": "11.紡織品(千美元)",
+      "total_export": 25610114
+    },
+    {
+      "product": "6.化學品(千美元)",
+      "total_export": 21363291
+    },
+    {
+      "product": "5.礦產品(千美元)",
+      "total_export": 6459092
+    },
+    {
+      "product": "13.非金屬礦物製品(千美元)",
+      "total_export": 5923070
+    },
+    {
+      "product": "4.調製食品；飲料及菸酒(千美元)",
+      "total_export": 5708703
+    },
+    {
+      "product": "10.紙漿；紙及其製品；印刷品(千美元)",
+      "total_export": 3643452
+    },
+    {
+      "product": "1.活動物；動物產品(千美元)",
+      "total_export": 3588599
+    },
+    {
+      "product": "14.珠寶及貴金屬製品(千美元)",
+      "total_export": 2770584
+    },
+    {
+      "product": "12.鞋、帽及其他飾品(千美元)",
+      "total_export": 2397708
+    },
+    {
+      "product": "2.植物產品(千美元)",
+      "total_export": 1728433
+    },
+    {
+      "product": "8.毛皮及其製品(千美元)",
+      "total_export": 1565656
+    },
+    {
+      "product": "9.木及木製品(千美元)",
+      "total_export": 1254385
+    },
+    {
+      "product": "3.動植物油脂(千美元)",
+      "total_export": 306188
+    }
+  ]
+}

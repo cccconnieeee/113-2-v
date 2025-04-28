@@ -1,0 +1,111 @@
+{
+  "description": "Missing value counts and proportions for each variable",
+  "operations": "summarise, across, pivot_longer, mutate",
+  "summary": [
+    {
+      "variable": "年份",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "總計(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "1.活動物；動物產品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "2.植物產品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "3.動植物油脂(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "4.調製食品；飲料及菸酒(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "5.礦產品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "6.化學品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "7.塑膠、橡膠及其製品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "8.毛皮及其製品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "9.木及木製品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "10.紙漿；紙及其製品；印刷品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "11.紡織品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "12.鞋、帽及其他飾品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "13.非金屬礦物製品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "14.珠寶及貴金屬製品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "15.基本金屬及其製品(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "16.機械及電機設備(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "17.運輸工具(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "18.光學及精密儀器；鐘錶；樂器(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    },
+    {
+      "variable": "19.其他(千美元)",
+      "missing_count": 0,
+      "missing_proportion": 0
+    }
+  ]
+}
